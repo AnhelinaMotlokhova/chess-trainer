@@ -1,0 +1,331 @@
+2025-04-10T16:01:40.201919,90,b8g3,-10000,Excellent,100,
+2025-04-10T16:03:00.392534,90,b8g3,-10000,Excellent,100,
+2025-04-10T16:06:56.592740,90,b8g3,-10000,Excellent,100,
+2025-04-10T16:09:38.333593,90,b8g3,-10000,Excellent,100,
+2025-04-10T16:10:05.883828,90,b8g3,-10000,Excellent,100,
+2025-04-10T16:11:56.395422,90,b8g3,-10000,Excellent,100,
+2025-04-10T16:16:06.994495,1,e2e4,43,Excellent,100,
+2025-04-10T16:16:06.994499,2,e7e5,34,Excellent,100,
+2025-04-10T16:16:06.994501,3,d2d4,6,Inaccuracy,70,Consider looking for stronger responses next time. Think about your opponent's threats.
+2025-04-10T16:16:06.994503,4,b8c6,71,Inaccuracy,70,Consider looking for stronger responses next time. Think about your opponent's threats.
+2025-04-10T16:16:06.994504,5,g1f3,29,Inaccuracy,70,Consider looking for stronger responses next time. Think about your opponent's threats.
+2025-04-10T16:16:06.994506,6,d7d6,87,Inaccuracy,70,Consider looking for stronger responses next time. Think about your opponent's threats.
+2025-04-10T16:16:06.994508,7,d4e5,50,Excellent,90,
+2025-04-10T16:16:06.994510,8,d6e5,39,Excellent,100,
+2025-04-10T16:16:06.994512,9,d1d8,41,Excellent,100,
+2025-04-10T16:16:06.994513,10,e8d8,46,Excellent,100,
+2025-04-10T16:16:06.994514,11,f1b5,37,Excellent,90,
+2025-04-10T16:16:06.994515,12,g8f6,265,Mistake,50,This move weakens your position. Look ahead at possible counter-plays.
+2025-04-10T16:16:06.994517,13,b5c6,258,Excellent,100,
+2025-04-10T16:16:06.994518,14,b7c6,279,Excellent,100,
+2025-04-10T16:16:06.994519,15,f3e5,269,Excellent,100,
+2025-04-10T16:16:06.994520,16,f6e4,372,Mistake,50,This move weakens your position. Look ahead at possible counter-plays.
+2025-04-10T16:16:06.994521,17,e5f7,405,Excellent,100,
+2025-04-10T16:16:06.994522,18,d8d7,402,Excellent,100,
+2025-04-10T16:16:06.994523,19,f7h8,448,Inaccuracy,100,Consider looking for stronger responses next time. Think about your opponent's threats.
+2025-04-10T16:16:06.994525,20,f8b4,464,Excellent,90,
+2025-04-10T16:16:06.994526,21,c2c3,442,Excellent,90,
+2025-04-10T16:16:06.994527,22,b4c5,427,Excellent,100,
+2025-04-10T16:16:06.994528,23,h8f7,337,Inaccuracy,70,Consider looking for stronger responses next time. Think about your opponent's threats.
+2025-04-10T16:16:06.994530,24,c8a6,385,Excellent,90,
+2025-04-10T16:16:06.994531,25,f7e5,438,Excellent,100,
+2025-04-10T16:16:06.994532,26,d7d6,407,Inaccuracy,70,Consider looking for stronger responses next time. Think about your opponent's threats.
+2025-04-10T16:16:06.994533,27,c1f4,340,Inaccuracy,70,Consider looking for stronger responses next time. Think about your opponent's threats.
+2025-04-10T16:16:06.994535,28,a8f8,536,Mistake,50,This move weakens your position. Look ahead at possible counter-plays.
+2025-04-10T16:16:06.994536,29,e5f7,212,Blunder,20,"This is a major oversight. Review tactics like forks, pins, and skewers."
+2025-04-10T16:16:06.994538,30,d6e6,282,Inaccuracy,70,Consider looking for stronger responses next time. Think about your opponent's threats.
+2025-04-10T16:16:06.994539,31,f7g5,308,Excellent,100,
+2025-04-10T16:16:06.994541,32,e6f5,445,Mistake,50,This move weakens your position. Look ahead at possible counter-plays.
+2025-04-10T16:16:06.994542,33,g5e4,525,Excellent,100,
+2025-04-10T16:16:06.994543,34,f5e4,522,Excellent,100,
+2025-04-10T16:16:06.994544,35,f4c7,276,Mistake,50,This move weakens your position. Look ahead at possible counter-plays.
+2025-04-10T16:16:06.994546,36,c5f2,407,Inaccuracy,70,Consider looking for stronger responses next time. Think about your opponent's threats.
+2025-04-10T16:16:06.994547,37,e1d1,388,Excellent,100,
+2025-04-10T16:16:06.994548,38,e4e3,388,Excellent,100,
+2025-04-10T16:16:06.994549,39,c7d6,157,Mistake,50,This move weakens your position. Look ahead at possible counter-plays.
+2025-04-10T16:16:06.994550,40,f8d8,174,Excellent,100,
+2025-04-10T16:16:06.994551,41,d1c2,145,Excellent,90,
+2025-04-10T16:16:06.994553,42,d8d6,159,Excellent,90,
+2025-04-10T16:16:06.994554,43,h1d1,10,Mistake,50,This move weakens your position. Look ahead at possible counter-plays.
+2025-04-10T16:16:06.994555,44,a6d3,0,Best,100,
+2025-04-10T16:16:06.994556,45,c2c1,-20,Best,90,
+2025-04-10T16:16:06.994557,46,h7h5,144,Best,90,
+2025-04-10T16:16:06.994558,47,c3c4,14,Mistake,50,This move weakens your position. Look ahead at possible counter-plays.
+2025-04-10T16:16:06.994560,48,g7g5,137,Best,90,
+2025-04-10T16:16:06.994561,49,b1c3,9,Mistake,50,This move weakens your position. Look ahead at possible counter-plays.
+2025-04-10T16:16:06.994562,50,h5h4,89,Inaccuracy,70,Consider looking for stronger responses next time. Think about your opponent's threats.
+2025-04-10T16:16:06.994563,51,b2b4,45,Inaccuracy,70,Consider looking for stronger responses next time. Think about your opponent's threats.
+2025-04-10T16:16:06.994565,52,d6d4,0,Best,100,
+2025-04-10T16:16:06.994566,53,c3e2,-508,Best,90,
+2025-04-10T16:16:06.994567,54,d3e2,-390,Mistake,50,This move weakens your position. Look ahead at possible counter-plays.
+2025-04-10T16:16:06.994569,55,d1d4,-412,Excellent,100,
+2025-04-10T16:16:06.994570,56,e3d4,-392,Best,100,
+2025-04-10T16:16:06.994571,57,c1d2,-432,Excellent,90,
+2025-04-10T16:16:06.994572,58,e2d3,-399,Inaccuracy,70,Consider looking for stronger responses next time. Think about your opponent's threats.
+2025-04-10T16:16:06.994573,59,b4b5,-459,Inaccuracy,70,Consider looking for stronger responses next time. Think about your opponent's threats.
+2025-04-10T16:16:06.994575,60,c6b5,-337,Mistake,50,This move weakens your position. Look ahead at possible counter-plays.
+2025-04-10T16:16:06.994576,61,c4b5,-350,Excellent,100,
+2025-04-10T16:16:06.994577,62,f2e3,-359,Excellent,90,
+2025-04-10T16:16:06.994578,63,d2e1,-345,Excellent,100,
+2025-04-10T16:16:06.994579,64,g5g4,-299,Inaccuracy,70,Consider looking for stronger responses next time. Think about your opponent's threats.
+2025-04-10T16:16:06.994581,65,a2a4,-278,Excellent,100,
+2025-04-10T16:16:06.994582,66,h4h3,-49,Mistake,50,This move weakens your position. Look ahead at possible counter-plays.
+2025-04-10T16:16:06.994584,67,g2h3,-58,Excellent,100,
+2025-04-10T16:16:06.994585,68,g4h3,-83,Excellent,100,
+2025-04-10T16:16:06.994586,69,e1d1,-214,Mistake,50,This move weakens your position. Look ahead at possible counter-plays.
+2025-04-10T16:16:06.994587,70,d4c3,-199,Inaccuracy,70,Consider looking for stronger responses next time. Think about your opponent's threats.
+2025-04-10T16:16:06.994589,71,a1a3,-279,Inaccuracy,100,Consider looking for stronger responses next time. Think about your opponent's threats.
+2025-04-10T16:16:06.994590,72,c3d4,-140,Mistake,50,This move weakens your position. Look ahead at possible counter-plays.
+2025-04-10T16:16:06.994592,73,a3b3,-321,Mistake,50,This move weakens your position. Look ahead at possible counter-plays.
+2025-04-10T16:16:06.994593,74,e3f4,-181,Mistake,50,This move weakens your position. Look ahead at possible counter-plays.
+2025-04-10T16:16:06.994595,75,b3b4,-283,Mistake,50,This move weakens your position. Look ahead at possible counter-plays.
+2025-04-10T16:16:06.994596,76,d4e3,-308,Inaccuracy,100,Consider looking for stronger responses next time. Think about your opponent's threats.
+2025-04-10T16:16:06.994598,77,a4a5,-318,Excellent,90,
+2025-04-10T16:16:06.994599,78,f4h2,-318,Excellent,100,
+2025-04-10T16:16:06.994600,79,b5b6,-303,Excellent,90,
+2025-04-10T16:16:06.994601,80,a7b6,-309,Excellent,100,
+2025-04-10T16:16:06.994602,81,a5b6,-327,Excellent,90,
+2025-04-10T16:16:06.994603,82,h2b8,-316,Excellent,90,
+2025-04-10T16:16:06.994604,83,b4h4,-321,Excellent,100,
+2025-04-10T16:16:06.994605,84,h3h2,-338,Excellent,100,
+2025-04-10T16:16:06.994606,85,d1e1,-9993,Blunder,0,"This is a major oversight. Review tactics like forks, pins, and skewers."
+2025-04-10T16:16:06.994608,86,d3e2,-372,Blunder,0,"This is a major oversight. Review tactics like forks, pins, and skewers."
+2025-04-10T16:16:06.994609,87,h4h8,-9999,Blunder,0,"This is a major oversight. Review tactics like forks, pins, and skewers."
+2025-04-10T16:16:06.994611,88,h2h1q,-9999,Best,90,
+2025-04-10T16:16:06.994612,89,h8h1,-9999,Best,100,
+2025-04-10T16:16:06.994613,90,b8g3,-10000,Excellent,100,
+2025-04-10T16:28:25.406428,1,e2e4,43,Excellent,100,,
+2025-04-10T16:28:25.406433,2,e7e5,34,Excellent,100,,
+2025-04-10T16:28:25.406434,3,d2d4,6,Inaccuracy,70,Consider looking for stronger responses next time. Think about your opponent's threats.,Recommended move: g1f3
+2025-04-10T16:28:25.406436,4,b8c6,71,Inaccuracy,70,Consider looking for stronger responses next time. Think about your opponent's threats.,Recommended move: e5d4
+2025-04-10T16:28:25.406438,5,g1f3,29,Inaccuracy,70,Consider looking for stronger responses next time. Think about your opponent's threats.,Recommended move: d4d5
+2025-04-10T16:28:25.406440,6,d7d6,87,Inaccuracy,70,Consider looking for stronger responses next time. Think about your opponent's threats.,Recommended move: e5d4
+2025-04-10T16:28:25.406442,7,d4e5,50,Excellent,90,,
+2025-04-10T16:28:25.406444,8,d6e5,39,Excellent,100,,
+2025-04-10T16:28:25.406445,9,d1d8,41,Excellent,100,,
+2025-04-10T16:28:25.406447,10,e8d8,46,Excellent,100,,
+2025-04-10T16:28:25.406448,11,f1b5,37,Excellent,90,,
+2025-04-10T16:28:25.406449,12,g8f6,265,Mistake,50,This move weakens your position. Look ahead at possible counter-plays.,Recommended move: f8d6
+2025-04-10T16:28:25.406451,13,b5c6,258,Excellent,100,,
+2025-04-10T16:28:25.406452,14,b7c6,279,Excellent,100,,
+2025-04-10T16:28:25.406453,15,f3e5,269,Excellent,100,,
+2025-04-10T16:28:25.406454,16,f6e4,372,Mistake,50,This move weakens your position. Look ahead at possible counter-plays.,Recommended move: d8e8
+2025-04-10T16:28:25.406455,17,e5f7,405,Excellent,100,,
+2025-04-10T16:28:25.406456,18,d8d7,402,Excellent,100,,
+2025-04-10T16:28:25.406457,19,f7h8,448,Inaccuracy,100,Consider looking for stronger responses next time. Think about your opponent's threats.,Recommended move: f7h8
+2025-04-10T16:28:25.406459,20,f8b4,464,Excellent,90,,
+2025-04-10T16:28:25.406460,21,c2c3,442,Excellent,90,,
+2025-04-10T16:28:25.406461,22,b4c5,427,Excellent,100,,
+2025-04-10T16:28:25.406462,23,h8f7,337,Inaccuracy,70,Consider looking for stronger responses next time. Think about your opponent's threats.,Recommended move: c1e3
+2025-04-10T16:28:25.406464,24,c8a6,385,Excellent,90,,
+2025-04-10T16:28:25.406465,25,f7e5,438,Excellent,100,,
+2025-04-10T16:28:25.406466,26,d7d6,407,Inaccuracy,70,Consider looking for stronger responses next time. Think about your opponent's threats.,Recommended move: d7e6
+2025-04-10T16:28:25.406468,27,c1f4,340,Inaccuracy,70,Consider looking for stronger responses next time. Think about your opponent's threats.,Recommended move: e5g4
+2025-04-10T16:28:25.406470,28,a8f8,536,Mistake,50,This move weakens your position. Look ahead at possible counter-plays.,Recommended move: g7g5
+2025-04-10T16:28:25.406471,29,e5f7,212,Blunder,20,"This is a major oversight. Review tactics like forks, pins, and skewers.",Recommended move: e5g6
+2025-04-10T16:28:25.406473,30,d6e6,282,Inaccuracy,70,Consider looking for stronger responses next time. Think about your opponent's threats.,Recommended move: d6e7
+2025-04-10T16:28:25.406475,31,f7g5,308,Excellent,100,,
+2025-04-10T16:28:25.406476,32,e6f5,445,Mistake,50,This move weakens your position. Look ahead at possible counter-plays.,Recommended move: e4g5
+2025-04-10T16:28:25.406477,33,g5e4,525,Excellent,100,,
+2025-04-10T16:28:25.406478,34,f5e4,522,Excellent,100,,
+2025-04-10T16:28:25.406479,35,f4c7,276,Mistake,50,This move weakens your position. Look ahead at possible counter-plays.,Recommended move: f4g3
+2025-04-10T16:28:25.406481,36,c5f2,407,Inaccuracy,70,Consider looking for stronger responses next time. Think about your opponent's threats.,Recommended move: f8f2
+2025-04-10T16:28:25.406483,37,e1d1,388,Excellent,100,,
+2025-04-10T16:28:25.406484,38,e4e3,388,Excellent,100,,
+2025-04-10T16:28:25.406485,39,c7d6,157,Mistake,50,This move weakens your position. Look ahead at possible counter-plays.,Recommended move: b1d2
+2025-04-10T16:28:25.406486,40,f8d8,174,Excellent,100,,
+2025-04-10T16:28:25.406487,41,d1c2,145,Excellent,90,,
+2025-04-10T16:28:25.406488,42,d8d6,159,Excellent,90,,
+2025-04-10T16:28:25.406489,43,h1d1,10,Mistake,50,This move weakens your position. Look ahead at possible counter-plays.,Recommended move: b2b4
+2025-04-10T16:28:25.406491,44,a6d3,0,Best,100,,
+2025-04-10T16:28:25.406492,45,c2c1,-20,Best,90,,
+2025-04-10T16:28:25.406493,46,h7h5,144,Best,90,,
+2025-04-10T16:28:25.406494,47,c3c4,14,Mistake,50,This move weakens your position. Look ahead at possible counter-plays.,Recommended move: b1a3
+2025-04-10T16:28:25.406495,48,g7g5,137,Best,90,,
+2025-04-10T16:28:25.406496,49,b1c3,9,Mistake,50,This move weakens your position. Look ahead at possible counter-plays.,Recommended move: b1a3
+2025-04-10T16:28:25.406498,50,h5h4,89,Inaccuracy,70,Consider looking for stronger responses next time. Think about your opponent's threats.,Recommended move: e3d4
+2025-04-10T16:28:25.406500,51,b2b4,45,Inaccuracy,70,Consider looking for stronger responses next time. Think about your opponent's threats.,Recommended move: b2b3
+2025-04-10T16:28:25.406501,52,d6d4,0,Best,100,,
+2025-04-10T16:28:25.406502,53,c3e2,-508,Best,90,,
+2025-04-10T16:28:25.406503,54,d3e2,-390,Mistake,50,This move weakens your position. Look ahead at possible counter-plays.,Recommended move: e3e2
+2025-04-10T16:28:25.406505,55,d1d4,-412,Excellent,100,,
+2025-04-10T16:28:25.406506,56,e3d4,-392,Best,100,,
+2025-04-10T16:28:25.406507,57,c1d2,-432,Excellent,90,,
+2025-04-10T16:28:25.406508,58,e2d3,-399,Inaccuracy,70,Consider looking for stronger responses next time. Think about your opponent's threats.,Recommended move: e2c4
+2025-04-10T16:28:25.406510,59,b4b5,-459,Inaccuracy,70,Consider looking for stronger responses next time. Think about your opponent's threats.,Recommended move: a2a4
+2025-04-10T16:28:25.406512,60,c6b5,-337,Mistake,50,This move weakens your position. Look ahead at possible counter-plays.,Recommended move: f2e3
+2025-04-10T16:28:25.406513,61,c4b5,-350,Excellent,100,,
+2025-04-10T16:28:25.406514,62,f2e3,-359,Excellent,90,,
+2025-04-10T16:28:25.406515,63,d2e1,-345,Excellent,100,,
+2025-04-10T16:28:25.406516,64,g5g4,-299,Inaccuracy,70,Consider looking for stronger responses next time. Think about your opponent's threats.,Recommended move: d3b5
+2025-04-10T16:28:25.406518,65,a2a4,-278,Excellent,100,,
+2025-04-10T16:28:25.406519,66,h4h3,-49,Mistake,50,This move weakens your position. Look ahead at possible counter-plays.,Recommended move: d4c3
+2025-04-10T16:28:25.406521,67,g2h3,-58,Excellent,100,,
+2025-04-10T16:28:25.406522,68,g4h3,-83,Excellent,100,,
+2025-04-10T16:28:25.406523,69,e1d1,-214,Mistake,50,This move weakens your position. Look ahead at possible counter-plays.,Recommended move: b5b6
+2025-04-10T16:28:25.406524,70,d4c3,-199,Inaccuracy,70,Consider looking for stronger responses next time. Think about your opponent's threats.,Recommended move: e3g1
+2025-04-10T16:28:25.406526,71,a1a3,-279,Inaccuracy,100,Consider looking for stronger responses next time. Think about your opponent's threats.,Recommended move: a1a3
+2025-04-10T16:28:25.406528,72,c3d4,-140,Mistake,50,This move weakens your position. Look ahead at possible counter-plays.,Recommended move: c3c4
+2025-04-10T16:28:25.406529,73,a3b3,-321,Mistake,50,This move weakens your position. Look ahead at possible counter-plays.,Recommended move: b5b6
+2025-04-10T16:28:25.406531,74,e3f4,-181,Mistake,50,This move weakens your position. Look ahead at possible counter-plays.,Recommended move: d4c4
+2025-04-10T16:28:25.406533,75,b3b4,-283,Mistake,50,This move weakens your position. Look ahead at possible counter-plays.,Recommended move: b5b6
+2025-04-10T16:28:25.406534,76,d4e3,-308,Inaccuracy,100,Consider looking for stronger responses next time. Think about your opponent's threats.,Recommended move: d4e3
+2025-04-10T16:28:25.406536,77,a4a5,-318,Excellent,90,,
+2025-04-10T16:28:25.406537,78,f4h2,-318,Excellent,100,,
+2025-04-10T16:28:25.406538,79,b5b6,-303,Excellent,90,,
+2025-04-10T16:28:25.406539,80,a7b6,-309,Excellent,100,,
+2025-04-10T16:28:25.406540,81,a5b6,-327,Excellent,90,,
+2025-04-10T16:28:25.406541,82,h2b8,-316,Excellent,90,,
+2025-04-10T16:28:25.406542,83,b4h4,-321,Excellent,100,,
+2025-04-10T16:28:25.406543,84,h3h2,-338,Excellent,100,,
+2025-04-10T16:28:25.406579,85,d1e1,-9993,Blunder,0,"This is a major oversight. Review tactics like forks, pins, and skewers.",Recommended move: h4h3
+2025-04-10T16:28:25.406582,86,d3e2,-372,Blunder,0,"This is a major oversight. Review tactics like forks, pins, and skewers.",Recommended move: b8g3
+2025-04-10T16:28:25.406584,87,h4h8,-9999,Blunder,0,"This is a major oversight. Review tactics like forks, pins, and skewers.",Recommended move: h4e4
+2025-04-10T16:28:25.406586,88,h2h1q,-9999,Best,90,,
+2025-04-10T16:28:25.406587,89,h8h1,-9999,Best,100,,
+2025-04-10T16:28:25.406588,90,b8g3,-10000,Excellent,100,,
+2025-04-10T16:29:26.584555,1,e2e4,43,Excellent,100,,
+2025-04-10T16:29:26.584559,2,e7e5,34,Excellent,100,,
+2025-04-10T16:29:26.584561,3,d2d4,6,Inaccuracy,70,Consider looking for stronger responses next time. Think about your opponent's threats.,Recommended move: g1f3
+2025-04-10T16:29:26.584562,4,b8c6,71,Inaccuracy,70,Consider looking for stronger responses next time. Think about your opponent's threats.,Recommended move: e5d4
+2025-04-10T16:29:26.584564,5,g1f3,29,Inaccuracy,70,Consider looking for stronger responses next time. Think about your opponent's threats.,Recommended move: d4d5
+2025-04-10T16:29:26.584566,6,d7d6,87,Inaccuracy,70,Consider looking for stronger responses next time. Think about your opponent's threats.,Recommended move: e5d4
+2025-04-10T16:29:26.584568,7,d4e5,50,Excellent,90,,
+2025-04-10T16:29:26.584569,8,d6e5,39,Excellent,100,,
+2025-04-10T16:29:26.584570,9,d1d8,41,Excellent,100,,
+2025-04-10T16:29:26.584571,10,e8d8,46,Excellent,100,,
+2025-04-10T16:29:26.584572,11,f1b5,37,Excellent,90,,
+2025-04-10T16:29:26.584573,12,g8f6,265,Mistake,50,This move weakens your position. Look ahead at possible counter-plays.,Recommended move: f8d6
+2025-04-10T16:29:26.584575,13,b5c6,258,Excellent,100,,
+2025-04-10T16:29:26.584576,14,b7c6,279,Excellent,100,,
+2025-04-10T16:29:26.584577,15,f3e5,269,Excellent,100,,
+2025-04-10T16:29:26.584578,16,f6e4,372,Mistake,50,This move weakens your position. Look ahead at possible counter-plays.,Recommended move: d8e8
+2025-04-10T16:29:26.584579,17,e5f7,405,Excellent,100,,
+2025-04-10T16:29:26.584581,18,d8d7,402,Excellent,100,,
+2025-04-10T16:29:26.584582,19,f7h8,448,Inaccuracy,100,Consider looking for stronger responses next time. Think about your opponent's threats.,Recommended move: f7h8
+2025-04-10T16:29:26.584583,20,f8b4,464,Excellent,90,,
+2025-04-10T16:29:26.584584,21,c2c3,442,Excellent,90,,
+2025-04-10T16:29:26.584585,22,b4c5,427,Excellent,100,,
+2025-04-10T16:29:26.584586,23,h8f7,337,Inaccuracy,70,Consider looking for stronger responses next time. Think about your opponent's threats.,Recommended move: c1e3
+2025-04-10T16:29:26.584588,24,c8a6,385,Excellent,90,,
+2025-04-10T16:29:26.584589,25,f7e5,438,Excellent,100,,
+2025-04-10T16:29:26.584590,26,d7d6,407,Inaccuracy,70,Consider looking for stronger responses next time. Think about your opponent's threats.,Recommended move: d7e6
+2025-04-10T16:29:26.584592,27,c1f4,340,Inaccuracy,70,Consider looking for stronger responses next time. Think about your opponent's threats.,Recommended move: e5g4
+2025-04-10T16:29:26.584594,28,a8f8,536,Mistake,50,This move weakens your position. Look ahead at possible counter-plays.,Recommended move: g7g5
+2025-04-10T16:29:26.584595,29,e5f7,212,Blunder,20,"This is a major oversight. Review tactics like forks, pins, and skewers.",Recommended move: e5g6
+2025-04-10T16:29:26.584597,30,d6e6,282,Inaccuracy,70,Consider looking for stronger responses next time. Think about your opponent's threats.,Recommended move: d6e7
+2025-04-10T16:29:26.584599,31,f7g5,308,Excellent,100,,
+2025-04-10T16:29:26.584600,32,e6f5,445,Mistake,50,This move weakens your position. Look ahead at possible counter-plays.,Recommended move: e4g5
+2025-04-10T16:29:26.584601,33,g5e4,525,Excellent,100,,
+2025-04-10T16:29:26.584602,34,f5e4,522,Excellent,100,,
+2025-04-10T16:29:26.584603,35,f4c7,276,Mistake,50,This move weakens your position. Look ahead at possible counter-plays.,Recommended move: f4g3
+2025-04-10T16:29:26.584605,36,c5f2,407,Inaccuracy,70,Consider looking for stronger responses next time. Think about your opponent's threats.,Recommended move: f8f2
+2025-04-10T16:29:26.584607,37,e1d1,388,Excellent,100,,
+2025-04-10T16:29:26.584608,38,e4e3,388,Excellent,100,,
+2025-04-10T16:29:26.584609,39,c7d6,157,Mistake,50,This move weakens your position. Look ahead at possible counter-plays.,Recommended move: b1d2
+2025-04-10T16:29:26.584610,40,f8d8,174,Excellent,100,,
+2025-04-10T16:29:26.584611,41,d1c2,145,Excellent,90,,
+2025-04-10T16:29:26.584612,42,d8d6,159,Excellent,90,,
+2025-04-10T16:29:26.584613,43,h1d1,10,Mistake,50,This move weakens your position. Look ahead at possible counter-plays.,Recommended move: b2b4
+2025-04-10T16:29:26.584615,44,a6d3,0,Best,100,,
+2025-04-10T16:29:26.584616,45,c2c1,-20,Best,90,,
+2025-04-10T16:29:26.584617,46,h7h5,144,Best,90,,
+2025-04-10T16:29:26.584618,47,c3c4,14,Mistake,50,This move weakens your position. Look ahead at possible counter-plays.,Recommended move: b1a3
+2025-04-10T16:29:26.584620,48,g7g5,137,Best,90,,
+2025-04-10T16:29:26.584621,49,b1c3,9,Mistake,50,This move weakens your position. Look ahead at possible counter-plays.,Recommended move: b1a3
+2025-04-10T16:29:26.584622,50,h5h4,89,Inaccuracy,70,Consider looking for stronger responses next time. Think about your opponent's threats.,Recommended move: e3d4
+2025-04-10T16:29:26.584624,51,b2b4,45,Inaccuracy,70,Consider looking for stronger responses next time. Think about your opponent's threats.,Recommended move: b2b3
+2025-04-10T16:29:26.584626,52,d6d4,0,Best,100,,
+2025-04-10T16:29:26.584627,53,c3e2,-508,Best,90,,
+2025-04-10T16:29:26.584628,54,d3e2,-390,Mistake,50,This move weakens your position. Look ahead at possible counter-plays.,Recommended move: e3e2
+2025-04-10T16:29:26.584629,55,d1d4,-412,Excellent,100,,
+2025-04-10T16:29:26.584630,56,e3d4,-392,Best,100,,
+2025-04-10T16:29:26.584631,57,c1d2,-432,Excellent,90,,
+2025-04-10T16:29:26.584632,58,e2d3,-399,Inaccuracy,70,Consider looking for stronger responses next time. Think about your opponent's threats.,Recommended move: e2c4
+2025-04-10T16:29:26.584634,59,b4b5,-459,Inaccuracy,70,Consider looking for stronger responses next time. Think about your opponent's threats.,Recommended move: a2a4
+2025-04-10T16:29:26.584636,60,c6b5,-337,Mistake,50,This move weakens your position. Look ahead at possible counter-plays.,Recommended move: f2e3
+2025-04-10T16:29:26.584637,61,c4b5,-350,Excellent,100,,
+2025-04-10T16:29:26.584639,62,f2e3,-359,Excellent,90,,
+2025-04-10T16:29:26.584640,63,d2e1,-345,Excellent,100,,
+2025-04-10T16:29:26.584641,64,g5g4,-299,Inaccuracy,70,Consider looking for stronger responses next time. Think about your opponent's threats.,Recommended move: d3b5
+2025-04-10T16:29:26.584642,65,a2a4,-278,Excellent,100,,
+2025-04-10T16:29:26.584644,66,h4h3,-49,Mistake,50,This move weakens your position. Look ahead at possible counter-plays.,Recommended move: d4c3
+2025-04-10T16:29:26.584645,67,g2h3,-58,Excellent,100,,
+2025-04-10T16:29:26.584646,68,g4h3,-83,Excellent,100,,
+2025-04-10T16:29:26.584647,69,e1d1,-214,Mistake,50,This move weakens your position. Look ahead at possible counter-plays.,Recommended move: b5b6
+2025-04-10T16:29:26.584649,70,d4c3,-199,Inaccuracy,70,Consider looking for stronger responses next time. Think about your opponent's threats.,Recommended move: e3g1
+2025-04-10T16:29:26.584651,71,a1a3,-279,Inaccuracy,100,Consider looking for stronger responses next time. Think about your opponent's threats.,Recommended move: a1a3
+2025-04-10T16:29:26.584652,72,c3d4,-140,Mistake,50,This move weakens your position. Look ahead at possible counter-plays.,Recommended move: c3c4
+2025-04-10T16:29:26.584654,73,a3b3,-321,Mistake,50,This move weakens your position. Look ahead at possible counter-plays.,Recommended move: b5b6
+2025-04-10T16:29:26.584655,74,e3f4,-181,Mistake,50,This move weakens your position. Look ahead at possible counter-plays.,Recommended move: d4c4
+2025-04-10T16:29:26.584657,75,b3b4,-283,Mistake,50,This move weakens your position. Look ahead at possible counter-plays.,Recommended move: b5b6
+2025-04-10T16:29:26.584659,76,d4e3,-308,Inaccuracy,100,Consider looking for stronger responses next time. Think about your opponent's threats.,Recommended move: d4e3
+2025-04-10T16:29:26.584660,77,a4a5,-318,Excellent,90,,
+2025-04-10T16:29:26.584662,78,f4h2,-318,Excellent,100,,
+2025-04-10T16:29:26.584663,79,b5b6,-303,Excellent,90,,
+2025-04-10T16:29:26.584664,80,a7b6,-309,Excellent,100,,
+2025-04-10T16:29:26.584665,81,a5b6,-327,Excellent,90,,
+2025-04-10T16:29:26.584666,82,h2b8,-316,Excellent,90,,
+2025-04-10T16:29:26.584667,83,b4h4,-321,Excellent,100,,
+2025-04-10T16:29:26.584668,84,h3h2,-338,Excellent,100,,
+2025-04-10T16:29:26.584708,85,d1e1,-9993,Blunder,0,"This is a major oversight. Review tactics like forks, pins, and skewers.",Recommended move: h4h3
+2025-04-10T16:29:26.584711,86,d3e2,-372,Blunder,0,"This is a major oversight. Review tactics like forks, pins, and skewers.",Recommended move: b8g3
+2025-04-10T16:29:26.584713,87,h4h8,-9999,Blunder,0,"This is a major oversight. Review tactics like forks, pins, and skewers.",Recommended move: h4e4
+2025-04-10T16:29:26.584714,88,h2h1q,-9999,Best,90,,
+2025-04-10T16:29:26.584716,89,h8h1,-9999,Best,100,,
+2025-04-10T16:29:26.584717,90,b8g3,-10000,Excellent,100,,
+2025-04-10T16:32:14.361388,1,d2d4,28,Excellent,90,,
+2025-04-10T16:32:14.361392,2,e7e6,57,Excellent,90,,
+2025-04-10T16:32:14.361393,3,g1f3,14,Excellent,90,,
+2025-04-10T16:32:14.361394,4,a7a5,79,Inaccuracy,70,Consider looking for stronger responses next time. Think about your opponent's threats.,Recommended move: d7d5
+2025-04-10T16:32:14.361396,5,e2e4,77,Excellent,100,,
+2025-04-10T16:32:14.361397,6,f7f5,208,Mistake,50,This move weakens your position. Look ahead at possible counter-plays.,Recommended move: d7d5
+2025-04-10T16:32:14.361399,7,b1c3,149,Inaccuracy,70,Consider looking for stronger responses next time. Think about your opponent's threats.,Recommended move: e4f5
+2025-04-10T16:32:14.361400,8,d8e7,403,Mistake,50,This move weakens your position. Look ahead at possible counter-plays.,Recommended move: d7d5
+2025-04-10T16:32:14.361402,9,c1g5,398,Excellent,100,,
+2025-04-10T16:32:14.361403,10,g8f6,454,Excellent,90,,
+2025-04-10T16:32:14.361404,11,f1b5,155,Blunder,20,"This is a major oversight. Review tactics like forks, pins, and skewers.",Recommended move: e4e5
+2025-04-10T16:32:14.361406,12,h7h6,254,Inaccuracy,70,Consider looking for stronger responses next time. Think about your opponent's threats.,Recommended move: f5e4
+2025-04-10T16:32:14.361408,13,e1g1,-111,Blunder,20,"This is a major oversight. Review tactics like forks, pins, and skewers.",Recommended move: g5f6
+2025-04-10T16:32:14.361409,14,h6g5,-114,Excellent,100,,
+2025-04-10T16:32:14.361410,15,e4e5,-346,Mistake,50,This move weakens your position. Look ahead at possible counter-plays.,Recommended move: e4f5
+2025-04-10T16:32:14.361412,16,f6g4,-258,Inaccuracy,70,Consider looking for stronger responses next time. Think about your opponent's threats.,Recommended move: f6e4
+2025-04-10T16:32:14.361414,17,f1e1,-314,Inaccuracy,70,Consider looking for stronger responses next time. Think about your opponent's threats.,Recommended move: d4d5
+2025-04-10T16:32:14.361416,18,c7c6,-305,Excellent,100,,
+2025-04-10T16:32:14.361417,19,d1d3,-354,Inaccuracy,70,Consider looking for stronger responses next time. Think about your opponent's threats.,Recommended move: h2h3
+2025-04-10T16:32:14.361418,20,e7b4,-251,Inaccuracy,70,Consider looking for stronger responses next time. Think about your opponent's threats.,Recommended move: b8a6
+2025-04-10T16:32:14.361420,21,a1d1,-230,Excellent,100,,
+2025-04-10T16:32:14.361421,22,b4b2,-236,Excellent,90,,
+2025-04-10T16:32:14.361422,23,f3g5,-268,Inaccuracy,70,Consider looking for stronger responses next time. Think about your opponent's threats.,Recommended move: d4d5
+2025-04-10T16:32:14.361424,24,c6b5,-208,Inaccuracy,70,Consider looking for stronger responses next time. Think about your opponent's threats.,Recommended move: h8h2
+2025-04-10T16:32:14.361426,25,d4d5,-256,Inaccuracy,70,Consider looking for stronger responses next time. Think about your opponent's threats.,Recommended move: h2h3
+2025-04-10T16:32:14.361427,26,h8h2,-305,Inaccuracy,70,Consider looking for stronger responses next time. Think about your opponent's threats.,Recommended move: f8c5
+2025-04-10T16:32:14.361429,27,g1f1,-564,Mistake,50,This move weakens your position. Look ahead at possible counter-plays.,Recommended move: g5h3
+2025-04-10T16:32:14.361431,28,h2h1,-487,Mistake,50,This move weakens your position. Look ahead at possible counter-plays.,Recommended move: f8b4
+2025-04-10T16:32:14.361432,29,f1e2,-485,Inaccuracy,100,Consider looking for stronger responses next time. Think about your opponent's threats.,Recommended move: f1e2
+2025-04-10T16:32:14.361434,30,b5b4,-378,Mistake,50,This move weakens your position. Look ahead at possible counter-plays.,Recommended move: h1e1
+2025-04-10T16:32:14.361436,31,e2d2,-715,Blunder,20,"This is a major oversight. Review tactics like forks, pins, and skewers.",Recommended move: e1h1
+2025-04-10T16:32:14.361437,32,g4f2,-561,Mistake,50,This move weakens your position. Look ahead at possible counter-plays.,Recommended move: b2c3
+2025-04-10T16:32:14.361439,33,d1b1,-782,Mistake,50,This move weakens your position. Look ahead at possible counter-plays.,Recommended move: e1h1
+2025-04-10T16:32:14.361440,34,b2a3,-485,Blunder,20,"This is a major oversight. Review tactics like forks, pins, and skewers.",Recommended move: b4c3
+2025-04-10T16:32:14.361442,35,e1h1,-525,Excellent,90,,
+2025-04-10T16:32:14.361443,36,f2h1,-366,Mistake,50,This move weakens your position. Look ahead at possible counter-plays.,Recommended move: f2d3
+2025-04-10T16:32:14.361445,37,b1h1,-499,Mistake,50,This move weakens your position. Look ahead at possible counter-plays.,Recommended move: c3b5
+2025-04-10T16:32:14.361446,38,e6d5,-62,Blunder,20,"This is a major oversight. Review tactics like forks, pins, and skewers.",Recommended move: a3c3
+2025-04-10T16:32:14.361448,39,h1h8,-538,Blunder,20,"This is a major oversight. Review tactics like forks, pins, and skewers.",Recommended move: c3b5
+2025-04-10T16:32:14.361449,40,b8a6,9993,Blunder,0,"This is a major oversight. Review tactics like forks, pins, and skewers.",Recommended move: a3c3
+2025-04-10T16:32:14.361451,41,d3f5,-288,Blunder,0,"This is a major oversight. Review tactics like forks, pins, and skewers.",Recommended move: h8f8
+2025-04-10T16:32:14.361453,42,a3c3,0,Best,90,,
+2025-04-10T16:32:14.361454,43,d2c1,0,Best,90,,
+2025-04-10T16:32:14.361455,44,c3e3,0,Best,100,,
+2025-04-10T16:32:14.361456,45,c1b2,0,Best,90,,
+2025-04-10T16:32:14.361457,46,e3d4,0,Best,100,,
+2025-04-10T16:32:14.361458,47,c2c3,-9996,Best,90,,
+2025-04-10T16:32:14.361459,48,d4c3,0,Best,90,,
+2025-04-10T16:32:14.361460,49,b2b1,0,Best,100,,
+2025-04-10T16:32:14.361460,50,c3e1,0,Best,100,,
+2025-04-10T16:32:14.361461,51,b1b2,0,Best,100,,
+2025-04-10T16:32:14.361462,52,e1c3,0,Best,90,,
+2025-04-10T16:32:14.361463,53,b2b1,0,Best,100,,
+2025-04-10T16:32:14.361464,54,a5a4,9999,Best,90,,
+2025-04-10T16:32:14.361465,55,f5f8,10000,Excellent,100,,

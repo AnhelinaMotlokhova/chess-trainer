@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Chess Trainer - Results</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-100 min-h-screen flex items-center justify-center px-4 py-8">
+    <div class="bg-white shadow-2xl rounded-2xl p-8 max-w-2xl w-full">
+        <h1 class="text-3xl font-bold text-gray-800 mb-6 text-center">✅ Analysis Complete!</h1>
+        
+        <div class="mb-6 flex justify-center">
+            <img src="{{ url_for('static', filename='game.gif') }}" alt="Game Animation" class="rounded-lg shadow-md border">
+        </div>       
+
+        <!-- ✅ Your Moves Table -->
+                <div class="mb-6 overflow-x-auto">
+                    <h2 class="text-xl font-semibold text-gray-800 mb-4">🧠 Your Moves (as {{ side.title() }})</h2>
+                    <table class="min-w-full table-auto text-sm text-left border-collapse border border-gray-300">
+                        <thead class="bg-gray-100 text-gray-700">
+                            <tr>
+                                <th class="border border-gray-300 px-4 py-2">#</th>
+                                <th class="border border-gray-300 px-4 py-2">Move</th>
+                                <th class="border border-gray-300 px-4 py-2">Eval</th>
+                                <th class="border border-gray-300 px-4 py-2">Category</th>
+                                <th class="border border-gray-300 px-4 py-2">🧠</th>
+                                <th class="border border-gray-300 px-4 py-2">Tip</th>
+                                <th class="border border-gray-300 px-4 py-2">📌 Best Move</th> <!-- NEW COLUMN -->
+                            </tr>                            
+                        </thead>
+                        <tbody>
+                            {% for row in moves %}
+                            <tr class="border-b border-gray-200 hover:bg-gray-50">
+                                <td class="px-4 py-2">{{ row[0] }}</td>
+                                <td class="px-4 py-2">{{ row[1] }}</td>
+                                <td class="px-4 py-2">{{ row[2] }}</td>
+                                <td class="px-4 py-2">{{ row[3] }}</td>
+                                <td class="px-4 py-2">
+                                    {% if row[3] == 'Best' %} ✅
+                                    {% elif row[3] == 'Excellent' %} 😎
+                                    {% elif row[3] == 'Inaccuracy' %} 😬
+                                    {% elif row[3] == 'Mistake' %} ⚠️
+                                    {% elif row[3] == 'Blunder' %} ❌
+                                    {% else %} ❓ {% endif %}
+                                </td>
+                                <td class="px-4 py-2 text-gray-600 italic">{{ row[5] }}</td>
+                                <td class="px-4 py-2 text-blue-700 font-medium">{{ row[6] }}</td>
+                            </tr>
+                            {% endfor %}
+                        </tbody>
+                    </table>
+                </div>
+
+                <!-- 🧠 Opponent Moves Table -->
+                <div class="mb-6 overflow-x-auto">
+                    <h2 class="text-xl font-semibold text-gray-800 mb-4">👤 Opponent’s Moves</h2>
+                    <table class="min-w-full table-auto text-sm text-left border-collapse border border-gray-300">
+                        <thead class="bg-gray-100 text-gray-700">
+                            <tr>
+                                <th class="border border-gray-300 px-4 py-2">#</th>
+                                <th class="border border-gray-300 px-4 py-2">Move</th>
+                                <th class="border border-gray-300 px-4 py-2">Eval</th>
+                                <th class="border border-gray-300 px-4 py-2">Category</th>
+                                <th class="border border-gray-300 px-4 py-2">🧠</th>
+                                <th class="border border-gray-300 px-4 py-2">Tip</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            {% for row in opponent_moves %}
+                            <tr class="border-b border-gray-200 hover:bg-gray-50">
+                                <td class="px-4 py-2">{{ row[0] }}</td>
+                                <td class="px-4 py-2">{{ row[1] }}</td>
+                                <td class="px-4 py-2">{{ row[2] }}</td>
+                                <td class="px-4 py-2">{{ row[3] }}</td>
+                                <td class="px-4 py-2">
+                                    {% if row[3] == 'Best' %} ✅
+                                    {% elif row[3] == 'Excellent' %} 😎
+                                    {% elif row[3] == 'Inaccuracy' %} 😬
+                                    {% elif row[3] == 'Mistake' %} ⚠️
+                                    {% elif row[3] == 'Blunder' %} ❌
+                                    {% else %} ❓ {% endif %}
+                                </td>
+                                <td class="px-4 py-2 text-gray-600 italic">{{ row[5] }}</td>
+                                <td class="px-4 py-2 text-blue-700 font-medium">{{ row[6] }}</td>
+                            </tr>
+                            {% endfor %}
+                        </tbody>
+                    </table>
+                </div>
+
+        
+
+        <div class="mt-6 flex flex-col space-y-3">
+            <a href="{{ url_for('static', filename='analysis_report.xlsx') }}" 
+               class="w-full text-center bg-blue-600 text-white font-semibold py-2 rounded hover:bg-blue-700 transition">
+               📥 Download Excel Report
+            </a>
+            <a href="{{ url_for('index') }}"
+               class="w-full text-center bg-gray-200 text-gray-700 font-medium py-2 rounded hover:bg-gray-300 transition">
+               🔁 Analyze Another Game
+            </a>
+        </div>
+    </div>
+</body>
+</html>
