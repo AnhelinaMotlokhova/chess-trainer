@@ -1,0 +1,18 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.10.15"]
+[Round "-"]
+[White "goldenhoshiko"]
+[Black "Elucacos"]
+[Result "1-0"]
+[WhiteElo "342"]
+[BlackElo "192"]
+[TimeControl "1800"]
+[EndTime "2:15:43 GMT+0000"]
+[Termination "goldenhoshiko won by checkmate"]
+
+1. d4 e6 2. Nf3 a5 3. e4 f5 4. Nc3 Qe7 5. Bg5 Nf6 6. Bb5 h6 7. O-O hxg5 8. e5
+Ng4 9. Re1 c6 10. Qd3 Qb4 11. Rad1 Qxb2 12. Nxg5 cxb5 13. d5 Rxh2 14. Kf1 Rh1+
+15. Ke2 b4 16. Kd2 Nxf2 17. Rb1 Qa3 18. Rxh1 Nxh1 19. Rxh1 exd5 20. Rh8 Na6 21.
+Qxf5 Qxc3+ 22. Kc1 Qe3+ 23. Kb2 Qd4+ 24. c3 Qxc3+ 25. Kb1 Qe1+ 26. Kb2 Qc3+ 27.
+Kb1 a4 28. Qxf8# 1-0
